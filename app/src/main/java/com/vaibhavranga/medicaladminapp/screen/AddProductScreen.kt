@@ -119,7 +119,7 @@ fun AddProductScreen(
                     }
                 }
             ) {
-                Text(text = "Save")
+                Text(text = "Save Product")
             }
         }
         when {
